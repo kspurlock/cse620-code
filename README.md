@@ -11,7 +11,7 @@ This repository hosts a collection of code samples for CSE620 - Combinatorial Op
 * *IMPORTANT NOTE: Your changes will not be saved by default in Colab when opening the files this way. You must save a copy of the file first.*
 
 ### Additional:
-* It's also possible to easily open the repository in a VSCode web environment by replacing `github.com` with `git.dev`.
+* It's also possible to easily open the repository in a VSCode web environment by replacing `github.com` with `github.dev`.
   
 # Table of Contents
 
