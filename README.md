@@ -22,5 +22,5 @@ This repository hosts a collection of code samples for CSE620 - Combinatorial Op
 * [Hill Climbing](https://githubtocolab.com/kspurlock/cse620-code/blob/main/classical/hillclimbing.ipynb) [Colab]
 
 ## Metaheuristics
-* [Simulated Annealing + Tabu Search + Genetic Algorithm for TSP](https://colab.research.google.com/github/kspurlock/cse620-code/blob/main/metaheuristic/TSP_sa_ts_ga.ipynb) [Colab]
+* [Simulated Annealing + Tabu Search + Genetic Algorithm for TSP](https://githubtocolab.com/kspurlock/cse620-code/blob/main/metaheuristic/TSP_sa_ts_ga.ipynb) [Colab]
 * [Particle Swarm Visualizer](https://github.com/kspurlock/cse620-code/blob/main/metaheuristic/swarm_gui_julia.ipynb) [Made in Julia]
